@@ -1,4 +1,4 @@
-# My OS Simulator
+# OS Simulator
 
 A C++ based operating system simulator that demonstrates key OS concepts:
 - **Process Scheduling**: First-Come First-Serve (FCFS), Priority, and Round-Robin
@@ -45,8 +45,8 @@ A C++ based operating system simulator that demonstrates key OS concepts:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Muniza-jayy/my-os-simulator.git
-cd my-os-simulator
+git clone https://github.com/Muniza-jayy/os-simulator.git
+cd os-simulator
 ```
 
 ### Build
